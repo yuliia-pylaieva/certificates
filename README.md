@@ -19,6 +19,12 @@ This repository contains a full list of my professional certificates in QA, test
 | QA Fundamentals and Manual Testing | SoftUni | Apr 2024 | [Verify](https://softuni.bg/Certificates/Details/213736/d1c2109f) |
 | QA Basics | SoftUni | Oct 2023 | [Verify](https://softuni.bg/Certificates/Details/189137/2e1bee75) |
 
+## 🤖 AI
+
+| Certificate | Issuer | Issued | Credential |
+|---|---|---|---|
+| Claude 101 | Anthropic (Claude Academy) | Oct 2026 | [Verify](https://academy.claude.com/verify/37c3ad449cd20a2179ff6addc0d6b746) |
+
 ## 💻 Programming
 
 | Certificate | Issuer | Issued | Credential |
