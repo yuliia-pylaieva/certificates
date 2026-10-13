@@ -23,6 +23,7 @@ This repository contains a full list of my professional certificates in QA, test
 
 | Certificate | Issuer | Issued | Credential |
 |---|---|---|---|
+| Claude Code 101 | Anthropic (Claude Academy) | Oct 2026 | [Verify](https://academy.claude.com/verify/1b2d73e99f92756295fa92508c06fd07) |
 | Claude 101 | Anthropic (Claude Academy) | Oct 2026 | [Verify](https://academy.claude.com/verify/37c3ad449cd20a2179ff6addc0d6b746) |
 
 ## 💻 Programming
